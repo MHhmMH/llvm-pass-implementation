@@ -1,6 +1,6 @@
 #!/bin/bash
 
-SOURCE_PATH=`pwd`/Passes
+SOURCE_PATH=`pwd`/Passes/DFA
 TESTS_PATH=`pwd`/Tests
 OUTPUT_PATH=`pwd`/Output
 
